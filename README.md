@@ -1,2 +1,2 @@
 # Quizz
-Petit jeu de quizz
+Petit jeu de quizz en js
