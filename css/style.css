@@ -19,6 +19,8 @@ h3 {
     background-color: darkgreen;
     color: white;
     border-radius: 50px;
+    margin-right: 1em;
+    opacity: 0.5;
 }
 
 #wrong {
@@ -26,4 +28,5 @@ h3 {
     background-color: darkred;
     color: white;
     border-radius: 50px;
+    opacity: 0.5;
 }
